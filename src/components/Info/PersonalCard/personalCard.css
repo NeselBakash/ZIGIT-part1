@@ -1,0 +1,12 @@
+
+img {
+    width: 25ch;
+    border-radius: 100%;
+    border: 5px solid rgb(115, 175, 201);
+    transition: 0.3s;
+    margin: 4ch;
+}
+
+img:hover {
+    transform: scale(1.2);
+}

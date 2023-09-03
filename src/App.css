@@ -1,0 +1,15 @@
+main {
+  display: grid;
+  width: min(70rem, 100% - 4rem);
+  margin-inline: auto;
+  margin: 0;
+  padding: 5ch;
+  box-sizing: border-box;
+  width: 100%;
+  background-image: url('https: //i.pinimg.com/564x/db/89/07/db8907208b387dedf183982486f262f8.jpg');
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
